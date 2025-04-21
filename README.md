@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+![image](https://github.com/user-attachments/assets/d6e53013-a71c-4d39-af3b-a473ec791bc8)# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -15,8 +15,15 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+Boolean expression for f1:
+![WhatsApp Image 2025-04-21 at 22 03 07_b8530b98](https://github.com/user-attachments/assets/74def382-6f13-4261-ae98-961ed743c5e1)
+
+boolean expression for f2
+![WhatsApp Image 2025-04-21 at 22 03 08_b060067e](https://github.com/user-attachments/assets/e7392bcb-ae1d-4736-ba82-8eeef1a222a3)
 
 **Logic Diagram**
+![image](https://github.com/user-attachments/assets/961d23a4-d7ea-4625-932d-61b2336a8db8)
+![image](https://github.com/user-attachments/assets/c01c8a00-da64-46fd-b399-1f40a4734f93)
 
 **Procedure**
 
@@ -33,18 +40,22 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![Screenshot 2025-04-21 220110](https://github.com/user-attachments/assets/b126c61b-6ce0-412d-ab4e-c7b50366d605)
 
-Developed by: RegisterNumber:*/
+
+Developed by:AHAMADH SULAIMAN M
+RegisterNumber: 212224230009
 
 
 **RTL realization**
 
-**Output:**
+![Screenshot 2025-04-21 214844](https://github.com/user-attachments/assets/02a27cb1-d0f4-4a24-b632-9bbc400ed38f)
 
-**RTL**
 
 **Timing Diagram**
+
+![Screenshot 2025-04-21 220033](https://github.com/user-attachments/assets/e0fc0d07-46f1-4190-9230-559748992e13)
+
 
 **Result:**
 
