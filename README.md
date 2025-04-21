@@ -15,6 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+
 Boolean expression for f1:
 ![WhatsApp Image 2025-04-21 at 22 03 07_b8530b98](https://github.com/user-attachments/assets/74def382-6f13-4261-ae98-961ed743c5e1)
 
