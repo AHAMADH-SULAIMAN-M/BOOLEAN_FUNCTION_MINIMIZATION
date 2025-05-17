@@ -55,7 +55,7 @@ RegisterNumber: 212224230009
 
 **Timing Diagram**
 
-![Screenshot 2025-04-21 220033](https://github.com/user-attachments/assets/e0fc0d07-46f1-4190-9230-559748992e13)
+![image](https://github.com/user-attachments/assets/00d11e1e-afad-48fb-a10b-f1225ed1741f)
 
 
 **Result:**
